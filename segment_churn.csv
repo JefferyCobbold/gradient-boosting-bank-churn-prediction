@@ -1,0 +1,15 @@
+segment,value,customers,churn_pct
+digital_engagement,high,1544,9.6
+digital_engagement,low,591,15.4
+digital_engagement,medium,7865,12.8
+has_complaint,0,7444,9.3
+has_complaint,1,2556,21.4
+num_products,1,4424,12.1
+num_products,2,3527,8.8
+num_products,3,1530,19.0
+num_products,4,519,20.2
+region,Ashanti,2506,12.3
+region,Eastern,1267,11.9
+region,Greater Accra,3542,12.6
+region,Northern,1175,12.3
+region,Western,1510,12.6
