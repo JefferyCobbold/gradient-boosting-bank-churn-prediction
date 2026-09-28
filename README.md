@@ -41,7 +41,8 @@ Top-decile lift is the churn rate among the 10% of customers scored highest, div
 
 Best settings: gradient boosting used learning rate 0.1, max depth 2, 100 iterations, min 50 samples per leaf. All three networks preferred 32 units, dropout 0.3, and learning rate 0.003. Logistic regression used C = 0.01.
 
-![Model comparison](reports/model_comparison.png)
+<img width="1691" height="440" alt="model_comparison" src="https://github.com/user-attachments/assets/beda94ab-68da-479b-845c-c896bfdb39d1" />
+Model Comparison
 
 **What the best model delivers (test set):** the riskiest 10% of customers churned at 34.5%, and contacting the riskiest 30% would reach 52% of all churners. Permutation importance ranks complaints first, followed by number of products, tenure, balance, and age.
 
